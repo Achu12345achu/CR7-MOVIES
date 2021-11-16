@@ -11,23 +11,32 @@
     "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
-        "APP_ID": {
+        "APP_ID": {8383002}
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "API_HASH": {
+        "API_HASH": {8a9700181e804d921f3df7b1469ac3ea} 
+
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "TELEGRAM 
+CHANNEL LINK : https://t.me/CR7MOVIESMOVIES
+YOUTUBE 
+CHANNEL LINK : 
+https://youtube.com/channel/UCsCEBJP-7-dNFR8DBXRxLEQ
+GROUP
+LINK :https://t.me/CR7MOVI
+APP LINK :http://www.appsgeyser.com/14727620
+USER NAME : @ASWINEVIJO"
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {2126334512:AAE7pf2S97zRrr5ekPHZl9oROpsVwZSDPaM
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "DB_URI": {
+        "DB_URL": {mongodb+srv://achu:<password>@cluster0.uet0a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority}
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "USER_SESSION": {
+        "USER_SESSION": {BQA6f5yQku-ukxh2tH3WbPVluZw5AqSUxhJykRSJSMjQiSADz9OtbgMVAyDb9TXqwLT-mqKZr20t6BFH0w-AkCcuJBinN9bTjRw0ADuNUtC7KR3uMQw52sttbOK6iXsMkqdU3QiCnECD-LGHYbgboFcQWfCW5FDghF4be9yXlmQFRFKBLLhGBV4MhNiMt5Q626lswc4G-DTvFW1tDZcCmzQveVB6xu4TnVFCtjvJ4uRvyCKcBUc6Pfl06BDb67fPmcEVgNqhSHRe4X7cLXoL9PH_HLK7it5NGXdeUoA4EGqI_pavMZWuh3fQS7DiDRl0fdlWPGcGTp5Os3OAa8-e1-amboN8WwA}
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
         }
@@ -38,7 +47,7 @@
         }
     ],
     "formation": {
-        "worker": {
+        "worker": {CR7 MOVIES}
             "quantity": 1,
             "size": "free"
         }
